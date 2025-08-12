@@ -24,17 +24,17 @@ Es gibt aber auch ein paar Sonderfälle:
 | -------- | ------- |
 | 1-6-5 (Würfelsumme 165) | 1 |
 | 3-3-5, 2-4-5, 4-4-3 (Würfelsumme 11) | 2 |
-| 4-5-6 (Straße) | 3 |
-| 3-4-5 (Straße) | 4 |
-| 2-3-4 (Straße) | 5 |
-| 1-2-3 (Straße) | 6 |
-| 6-6-6 (6er Pasch) | 7 |
-| 5-5-5 (5er Pasch) | 8 |
-| 4-4-4 (4er Pasch) | 9 |
-| 3-3-3 (3er Pasch) | 10 |
-| 2-2-2 (2er Pasch) | 11 |
-| 1-1-1 (1er Pasch) | 12 |
-| Alle restlichen Kombinationen absteigend nach Würfelpunkten | 13-45 |
+| 6-6-6 (6er Pasch) | 3 |
+| 5-5-5 (5er Pasch) | 4 |
+| 4-4-4 (4er Pasch) | 5 |
+| 3-3-3 (3er Pasch) | 6 |
+| 2-2-2 (2er Pasch) | 7 |
+| 1-1-1 (1er Pasch) | 8 |
+| 4-5-6 (Straße) | 9 |
+| 3-4-5 (Straße) | 10 |
+| 2-3-4 (Straße) | 11 |
+| 1-2-3 (Straße) | 12 |
+| Alle restlichen Kombinationen absteigend nach Würfelpunkten | 13-44 |
 
 Anschließend werden die Würfel an den nächsten Mitspieler in der Runde weitergegeben, dieser hat maximal gleich viele Versuche wie der erste Spieler in der Runde, kann aber auch weniger Versuche nutzen.
 
