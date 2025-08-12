@@ -9,12 +9,12 @@ Voraussetzungen:
 - Drei Würfel mit Würfelbecher
 - Sieben Chips (Fehlpunkte)
 
-Ein zufälliger Spieler beginnt mit Würfeln, die Summe der Augen ergeben seine Würfelpunkte, wobei **1** 100 Punkten entspricht und **6** 60 Punkten.
+Ein zufälliger Spieler beginnt mit Würfeln, die Summe der Augen ergeben seine Würfelpunkte, wobei $1$ 100 Punkten entspricht und $6$ 60 Punkten.
 
 Beispiele:
-- 4-2-4 -> 4+2+4 = 10 Punkte
-- 1-2-5 -> 100+2+5 = 107 Punkte
-- 6-5-1 -> 60+5+100 = 165 Punkte
+- $\{4,2,4\} \rightarrow 4+2+4 =$ 10 Punkte
+- $\{1,2,5\} \rightarrow 100+2+5 =$ 107 Punkte
+- $\{6,5,1\} \rightarrow 60+5+100 =$ 165 Punkte
 
 Nach dem Wurf kann der Spieler entscheiden, ob er mit der höhe der gewürfelten Punkte zufrieden ist, oder ob er alle Würfel noch einmal wirft. Insgesamt darf er maximal drei Mal pro Runde werfen. Allgemein gilt: Je höhere Punkte, desto besser.
 
@@ -22,18 +22,18 @@ Es gibt aber auch ein paar Sonderfälle:
 
 | Bezeichnung    | Stellenwert |
 | -------- | ------- |
-| 1-6-5 (Würfelsumme 165) | 1 |
-| 3-3-5, 2-4-5, 4-4-3 (Würfelsumme 11) | 2 |
-| 6-6-6 (6er Pasch) | 3 |
-| 5-5-5 (5er Pasch) | 4 |
-| 4-4-4 (4er Pasch) | 5 |
-| 3-3-3 (3er Pasch) | 6 |
-| 2-2-2 (2er Pasch) | 7 |
-| 1-1-1 (1er Pasch) | 8 |
-| 4-5-6 (Straße) | 9 |
-| 3-4-5 (Straße) | 10 |
-| 2-3-4 (Straße) | 11 |
-| 1-2-3 (Straße) | 12 |
+| $\{1,6,5\}$ (Würfelsumme 165) | 1 |
+| $\{3,3,5\}$, $\{2,4,5\}$, $\{3,4,4\}$ (Würfelsumme 11) | 2 |
+| $\{6,6,6\}$ (6er Pasch) | 3 |
+| $\{5,5,5\}$ (5er Pasch) | 4 |
+| $\{4,4,4\}$ (4er Pasch) | 5 |
+| $\{3,3,3\}$ (3er Pasch) | 6 |
+| $\{2,2,2\}$ (2er Pasch) | 7 |
+| $\{1,1,1\}$ (1er Pasch) | 8 |
+| $\{4,5,6\}$ (Straße) | 9 |
+| $\{3,4,5\}$ (Straße) | 10 |
+| $\{2,3,4\}$ (Straße) | 11 |
+| $\{1,2,3\}$ (Straße) | 12 |
 | Alle restlichen Kombinationen absteigend nach Würfelpunkten | 13-44 |
 
 Anschließend werden die Würfel an den nächsten Mitspieler in der Runde weitergegeben, dieser hat maximal gleich viele Versuche wie der erste Spieler in der Runde, kann aber auch weniger Versuche nutzen.
